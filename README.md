@@ -1,3 +1,8 @@
+pdcfixer_coco is the binary you run on linux
+everything else is just the source so you can see what the fix is i prob should add notation inside to explain it but i think
+git desc is enough
+
+
 ### REQUIRED UPDATE TO PLAY RANKED CVC
 
 **You will no longer be able to use the Podcrash Launcher to play on PDC. You must use the default Minecraft Launcher or a 3rd-party launcher like ATLauncher or Prism.**
